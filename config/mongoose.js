@@ -1,4 +1,6 @@
 const mongoose = require('mongoose');
+mongoose.set("strictQuery", false);
+
 mongoose.connect('mongodb+srv://vanshdeeparya:Vanshdeep12@cluster0.u9b1mbt.mongodb.net/?retryWrites=true&w=majority');
 
 // Code for using the cloud mongodb atlas 
