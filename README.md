@@ -5,6 +5,15 @@ Task: Need to create an API where anyone can create questions with options and a
 
 ---
 
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install 
+```
+
+
 ## Features
 - Create a question
 - Add options to a question
